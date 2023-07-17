@@ -12,7 +12,7 @@ This is a browser-based text editor application that allows you to create and ed
 
 ## Usage
 
-[Web Text Editor link](https://web-text-editor.herokuapp.com)
+[Web Text Editor link](https://web-text-editor-a0524cf04f18.herokuapp.com)
 
 Once you have the text editor web app running, you can perform the following actions:
 
